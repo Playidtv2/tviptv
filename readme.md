@@ -1,3 +1,5 @@
+# Link https://playidtv2.github.io/tviptv/
+
 # HTML5 & JAVASCRIPT based Video Player
 
 A html5 based video player which uses plain javascript to get json array of video urls
