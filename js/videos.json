@@ -3,7 +3,6 @@
 	"name": "Mr. Bean",
 	"videoUrl": "http://51.159.104.29:8080/mrbean/index.m3u8"
 }, 
-
 {
 	"name": "US  Tom & Jerry",
 	"videoUrl": "http://24hrs.homelinux.com/24H-tom-e-jerry/video.m3u8"
@@ -13,20 +12,14 @@
 	"name": "Cartoonito",
 	"videoUrl": "http://199.127.60.83:14682/cartoonito.m3u8"
 },
-
 {
 	"name": "DreamWorks",
 	"videoUrl": "http://45.189.148.24:8000/play/a00m/index.m3u8"
 },
-
 {
 	"name": "RTSH Sport",
 	"videoUrl": "http://tibotv.s.llnwi.net/dvr1file/yWbXvr1S/rtshsport_720p/playlist.m3u8"
 },
-
-
-
-
 {
 	"name": "Discovery",
 	"videoUrl": "http://170.82.200.35/discovery_turbo/tracks-v1a1/mono.m3u8"
@@ -46,11 +39,8 @@
 	"name": "My Cinema Europe",
 	"videoUrl": "http://210.210.155.35/uq2663/h/h18/index.m3u8"
 },
-
-
-
 {
-	"name": "Discovery Asiaᴴ",
+	"name": "Discovery Asia",
 	"videoUrl": "http://198.16.100.90:8278/discoverytwn_twn/playlist.m3u8?tid=MB1B4014431840144318&ct=19254&tsum=a72e8caa6986ef92c4d6cb743e22a78f"
 },
 
@@ -69,19 +59,14 @@
 	"videoUrl": "http://45.5.119.155:8090/play/a04e/index.m3u8"
 },
 
-
-
-
 {
 	"name": "InfoSport",
 	"videoUrl": "http://212.102.60.80/Infosport/index.m3u8"
 },
-
 {
 	"name": "FR  TF1",
 	"videoUrl": "http://212.102.60.80/TF1/index.m3u8"
 },
-
 {
 	"name": "mcot",
 	"videoUrl": "https://49-231-37-37-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0008/HLS/V0008.m3u8"
@@ -90,79 +75,54 @@
 	"name": "TNN16",
 	"videoUrl": "https://49-231-34-108-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0053/HLS/V0053.m3u8"
 },
-
 {
 	"name": "momo",
 	"videoUrl": "https://streaming.monomax.me/Mono29LiveStream/ngrp:myStream_all/playlist.m3u8"
 },
-
 {
 	"name": "mcot",
 	"videoUrl": "https://49-231-37-37-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0008/HLS/V0008.m3u8"
 },
-
 {
 	"name": "one",
 	"videoUrl": "https://49-231-37-37-rewriter.ais-vidnt.com/ais/play/origin/live/eds/B0012/HLS/B0012.m3u8"
 },
-
-
 {
 	"name": "TNN16",
 	"videoUrl": "https://49-231-34-108-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0053/HLS/V0053.m3u8"
 },
-
 {
 	"name": "momo",
 	"videoUrl": "https://streaming.monomax.me/Mono29LiveStream/ngrp:myStream_all/playlist.m3u8"
 },
-
 {
 	"name": "mcot",
 	"videoUrl": "https://49-231-37-37-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0008/HLS/V0008.m3u8"
 },
-
 {
 	"name": "one",
 	"videoUrl": "https://49-231-37-37-rewriter.ais-vidnt.com/ais/play/origin/live/eds/B0012/HLS/B0012.m3u8"
 },
-
-
 {
 	"name": "one",
 	"videoUrl": "https://49-231-37-37-rewriter.ais-vidnt.com/ais/play/origin/live/eds/B0012/HLS/B0012.m3u8"
 },
-
-
-
-
-
-
-
-
-
-
 {
 	"name": "TNN16",
 	"videoUrl": "https://49-231-34-108-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0053/HLS/V0053.m3u8"
 },
-
 {
 	"name": "momo",
 	"videoUrl": "https://streaming.monomax.me/Mono29LiveStream/ngrp:myStream_all/playlist.m3u8"
 },
-
 {
 	"name": "mcot",
 	"videoUrl": "https://49-231-37-37-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0008/HLS/V0008.m3u8"
 },
-
 {
 	"name": "one",
 	"videoUrl": "https://49-231-37-37-rewriter.ais-vidnt.com/ais/play/origin/live/eds/B0012/HLS/B0012.m3u8"
 },
-
-
 {
 	"name": "Thairath",
 	"videoUrl": "https://49-231-37-37-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0013/HLS/V0013.m3u8"
