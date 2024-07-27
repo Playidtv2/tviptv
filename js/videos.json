@@ -6,13 +6,16 @@
 	"name": "FR  TF1",
 	"videoUrl": "http://212.102.60.80/TF1/index.m3u8"
 },
-{
+{        
 	"name": "mcot",
-	"videoUrl": "https://49-231-37-37-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0008/HLS/V0008.m3u8"
+	"img": "https://cnt1-image.cdn.3bbtv.com:8443/bannerImage/7937/7937_602x224.png",
+	"videoUrl": "http://appdootv2.dootvde.com:1935/live/50004_ch9.stream.smil/playlist.m3u8"
 },
 {
 	"name": "TNN16",
-	"videoUrl": "https://49-231-34-108-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0053/HLS/V0053.m3u8"
+	"img": "https://cnt1-image.cdn.3bbtv.com:8443/bannerImage/8022/8022_602x224.png",
+	"useragent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36 Edg/124.0.0.0",
+	"videoUrl": "https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/chtnn/index.m3u8"
 },
 {
 	"name": "momo",
